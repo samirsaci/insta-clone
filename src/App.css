@@ -1,0 +1,17 @@
+/* Remove the default margin */
+* {
+  margin: 0;
+}
+
+.app {
+  background-color: #fafafa; /* back-ground of the page */
+
+}
+
+.app__header 
+{
+  background-color: white;
+  padding: 20px;
+  border-bottom: 1px solid lightgray;
+  object-fit: contain; /* keep the aspect ratio of the logo */
+}

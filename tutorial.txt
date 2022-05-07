@@ -1,0 +1,42 @@
+Documentation: https://github.com/facebook/create-react-app#user-guide
+
+# Install last version of Nodejs on Linux
+https://linuxhint.com/how-to-install-latest-node-js-on-linux/
+
+# Terminal: Initiate project
+npm init react-app my-app
+
+# Les script
+start: pour lancer l'application
+build: mettre en production
+test: tester 
+
+# VS Code extension: rfce to initiate a react script
+type rfce to initiate
+
+# Install material ui
+npm install @mui/material @emotion/react @emotion/styled
+
+# Set up database on firebase
+-> Firebase
+-> Start in test
+-> Start a collection
+   posts
+    caption
+    username
+    imageUrl
+
+# Connect the firebase database with our React app
+npm i firebase@9.0.0
+Install firebase: npm install firebase-tools
+Project Settings (Parametres du projets)
+Installation et configuration du SDK
+Create a file
+  firebase.js
+
+# User Authentification
+Firebase -> Authentification
+
+# Material UI: create a modal component for the user interface for Authentification
+
+
